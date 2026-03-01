@@ -1,0 +1,6 @@
+@LeaveManagementSystem_Backend_HostAddress = http://localhost:5217
+
+GET {{LeaveManagementSystem_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
